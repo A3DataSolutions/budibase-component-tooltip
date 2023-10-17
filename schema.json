@@ -75,6 +75,13 @@
           "value": "neutral",
           "invert": true
         }
+      },
+      {
+        "type": "boolean",
+        "showInBar": true,
+        "label": "Hide",
+        "defaultValue": false,
+        "key": "hideTooltip",
       }
     ]
   }
